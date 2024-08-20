@@ -34,12 +34,6 @@
    - Этот проект представляет собой приложение блога на основе Django.
 
 
-### SQL
-
-1. [SQL Bootcamp](https://github.com/clifforc/SQL_bootcamp)
-   - Репозиторий содержит решения заданий SQL bootcamp, охватывающего широкий спектр тем от базовых запросов до сложных концепций баз данных.
-
-
 ### C language
 
 1. [BrickGame Tetris](https://github.com/clifforc/C_brick_game_tetris)
@@ -58,6 +52,12 @@
 
 1. [CPP Matrix](https://github.com/clifforc/CPP_matrix)
    - Реализация библиотеки для работы с матрицами на языке C++.
+
+
+### SQL
+
+1. [SQL Bootcamp](https://github.com/clifforc/SQL_bootcamp)
+   - Репозиторий содержит решения заданий SQL bootcamp, охватывающего широкий спектр тем от базовых запросов до сложных концепций баз данных.
 
 
 ### DevOps
