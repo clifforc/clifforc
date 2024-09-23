@@ -63,10 +63,8 @@
 ### DevOps
 1. [Simple Docker](https://github.com/clifforc/Simple_Docker)
    - Учебный проект по разработке простого Docker-образа для собственного сервера.
-   
 2. [Linux Network](https://github.com/clifforc/Linux_Network)
    - Учебный проект посвящен практическому изучению настройки сетей в операционной системе Linux.
-   
 3. [Linux Administration Basics](https://github.com/clifforc/Linux_Administration_Basics)
    - Учебный проект охватывает фундаментальные задачи администрирования Linux.
 
