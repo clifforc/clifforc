@@ -69,3 +69,8 @@
    
 3. [Linux Administration Basics](https://github.com/clifforc/Linux_Administration_Basics)
    - Учебный проект охватывает фундаментальные задачи администрирования Linux.
+
+
+### Other
+1. [Brick_layout_automation](https://github.com/clifforc/brick_layout_automation)
+   - Проект по автоматизации градиентной раскладки кирпича с использованием визуального программирования в Rhino3D/Grasshopper
