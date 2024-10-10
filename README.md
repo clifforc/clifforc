@@ -40,6 +40,21 @@
    - Этот проект представляет собой приложение блога на основе Django.
 
 
+### SQL
+
+1. [SQL Bootcamp](https://github.com/clifforc/SQL_bootcamp)
+   - Репозиторий содержит решения заданий SQL bootcamp, охватывающего широкий спектр тем от базовых запросов до сложных концепций баз данных.
+
+
+### DevOps
+1. [Simple Docker](https://github.com/clifforc/Simple_Docker)
+   - Учебный проект по разработке простого Docker-образа для собственного сервера.
+2. [Linux Network](https://github.com/clifforc/Linux_Network)
+   - Учебный проект посвящен практическому изучению настройки сетей в операционной системе Linux.
+3. [Linux Administration Basics](https://github.com/clifforc/Linux_Administration_Basics)
+   - Учебный проект охватывает фундаментальные задачи администрирования Linux.
+
+
 ### C language
 
 1. [BrickGame Tetris](https://github.com/clifforc/C_brick_game_tetris)
@@ -58,21 +73,6 @@
 
 1. [CPP Matrix](https://github.com/clifforc/CPP_matrix)
    - Реализация библиотеки для работы с матрицами на языке C++.
-
-
-### SQL
-
-1. [SQL Bootcamp](https://github.com/clifforc/SQL_bootcamp)
-   - Репозиторий содержит решения заданий SQL bootcamp, охватывающего широкий спектр тем от базовых запросов до сложных концепций баз данных.
-
-
-### DevOps
-1. [Simple Docker](https://github.com/clifforc/Simple_Docker)
-   - Учебный проект по разработке простого Docker-образа для собственного сервера.
-2. [Linux Network](https://github.com/clifforc/Linux_Network)
-   - Учебный проект посвящен практическому изучению настройки сетей в операционной системе Linux.
-3. [Linux Administration Basics](https://github.com/clifforc/Linux_Administration_Basics)
-   - Учебный проект охватывает фундаментальные задачи администрирования Linux.
 
 
 ### Other
