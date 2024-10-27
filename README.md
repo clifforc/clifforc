@@ -73,6 +73,10 @@
 
 1. [CPP Matrix](https://github.com/clifforc/CPP_matrix)
    - Реализация библиотеки для работы с матрицами на языке C++.
+2. [cpp_containers](https://github.com/clifforc/cpp_containers)
+   - Собственная реализация основных контейнеров стандартной библиотеки C++.
+3. [cpp_brickgame](https://github.com/clifforc/cpp_brickgame)
+   - Реализация игр серии brickgame Snake и Tetris в консольном и декстопном варианте с общим frontend с использованием бибилиотек ncurses и GTK+
 
 
 ### Other
